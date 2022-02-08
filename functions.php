@@ -30,7 +30,7 @@ echo <<<EOT
     <nav class="navtop header-main">
     	<div>
     		<h1>#</h1>
-            <a class="nav-link active"  href="index.php"><i class="fas fa-home"></i>Início</a>
+            <a class="nav-link active" href="index.php"><i class="fas fa-home"></i>Início</a>
     	</div>
     </nav>
 EOT;
