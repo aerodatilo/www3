@@ -2,7 +2,7 @@
 function pdo_connect_mysql() {
     $DATABASE_HOST = 'localhost';
     $DATABASE_USER = 'root';
-    $DATABASE_PASS = 'Helder00!!';
+    $DATABASE_PASS = '';
     $DATABASE_NAME = 'clientes';
     try {
     	return new PDO('mysql:host=' . $DATABASE_HOST . ';dbname=' . $DATABASE_NAME . ';utf8mb4_0900_ai_ci', $DATABASE_USER, $DATABASE_PASS);
